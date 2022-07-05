@@ -1,0 +1,30 @@
+body {
+    font-family: 'Roboto Slab', serif;
+    text-align: center
+}
+
+.anchor-design {
+    text-decoration: none;
+    color: white;
+    background-color: salmon;
+    border-radius: 20px;
+    padding: 10px 20px;
+
+}
+
+h1 {
+    font-size: 300%;
+}
+
+.bg-image {
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    color: white;
+    height: 583px;
+    width: 880px;
+    margin-left: 17%;
+    margin-right: 25%;
+    vertical-align: middle;
+    padding-top: 7%;
+
+}
