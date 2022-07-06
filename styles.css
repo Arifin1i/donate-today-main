@@ -89,12 +89,33 @@ input {
     margin-top: 12%;
 }
 
+#flex {
+    display: flex;
+    margin-top: 5%;
+
+}
+
+.half-width {
+    width: 50%;
+
+}
+
+span {
+    color: blue;
+}
+
+.half-width img {
+    width: 100%;
+    height: 80%;
+}
+
 .email {
-    margin-left: 10%;
-    margin-right: 10%;
-    size: 100px;
-    padding: 100px 150px;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: 2mm;
+    padding: 50px;
     background-color: rgb(241, 229, 209);
+
 }
 
 .mail {
@@ -115,7 +136,7 @@ footer {
     border-top: 10px;
     background-color: black;
     color: gray;
-    padding: 0% 5% 0% 5%;
+    padding-bottom: 20px;
 }
 
 h3 {
